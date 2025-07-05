@@ -1,0 +1,12 @@
+[project]
+name = "bot-a"
+version = "0.1.0"
+description = ""
+authors = ["DETOOLTARHUN"]
+requires-python = ">=3.11"
+dependencies = [
+    "requests",
+    "python-telegram-bot",
+    "pillow",
+    "psutil",
+]
