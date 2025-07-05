@@ -1,8 +1,7 @@
 [project]
 name = "bot-a"
 version = "0.1.0"
-description = ""
-authors = ["DETOOLTARHUN"]
+description = "lol"
 requires-python = ">=3.11"
 dependencies = [
     "requests",
